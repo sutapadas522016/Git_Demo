@@ -1,2 +1,3 @@
 # Git_Demo
-To practice the git functionality
+This isa modifies version.
+This is To practice the git functionality
